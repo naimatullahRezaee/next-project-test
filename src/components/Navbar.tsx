@@ -7,7 +7,10 @@ const Navbar = () => {
       <Link href="/" className="mr-4">
         Home
       </Link>
-      <Link href="/blogs">Blogs</Link>
+      <Link className="mr-4" href="/blogs">
+        Blogs
+      </Link>
+      <Link href="/create-blog">Creat Blog</Link>
     </div>
   );
 };

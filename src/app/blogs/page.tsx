@@ -2,7 +2,6 @@ import React from "react";
 import Container from "../../components/Container";
 import Articles from "@/components/Articles";
 import Link from "next/link";
-import { it } from "node:test";
 
 export interface IGetArticles {
   id: number;

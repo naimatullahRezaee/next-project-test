@@ -119,6 +119,18 @@
       "title": "Programming",
       "description": "Programming is the art of writing code for machines. It builds websites, apps, and software we use daily. Learning to program opens doors to countless opportunities.",
       "image": "https://www.theforage.com/blog/wp-content/uploads/2023/04/computer-programming.jpg"
+    },
+    {
+      "id": "674",
+      "title": "Hello",
+      "description": "how are you",
+      "image": "https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_960_720.jpg"
+    },
+    {
+      "id": "47",
+      "title": "new one",
+      "description": "new one",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_7m_9vBbVqpkuEpWKSTPp6py-Lzb__UBcQ&s"
     }
   ]
 }
